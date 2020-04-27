@@ -1,5 +1,8 @@
 # polyv-live-sdk-mobile-demo
 
+## 基于vue-cli 3.0 写的简单demo
+### demo中sign接口只能获得demo频道的信息
+
 ## Project setup
 ```
 npm install
